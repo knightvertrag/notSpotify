@@ -1,0 +1,35 @@
+<html>
+
+<head>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body background="guitar.jpg">
+    
+    <h1>notSPOTIFY</h1>
+    <div class = "topnav">
+        <input type="text" placeholder="Search" id="search">
+    </div>
+    <button class="button button2" onclick="z=input(text())">Search</button>
+    <button class="button button1" onclick="Play(z)">Play</button>
+    <button class="button button1" onclick="Pause()">Pause</button>
+    <button class="button button1" onclick="Stop();autoplay(0,list)">Autoplay</button>
+    <button class="button button1" onclick="Stop()">Stop</button>
+    <button class="button button1" onclick="volinc(z)">Vol+</button>
+    <button class="button button1" onclick="voldec(z)">Vol-</button>
+    <script src="node_modules\howler\dist\howler.js"></script>
+    <script src="sound.js"></script>
+    <script src="node_modules\siriwave\dist\siriwave.js"></script>
+    <script type="text/javascript" src="node_modules\siriwave\dat.gui.js"></script>
+
+    <div class="btn-group">
+        <button class="button button3" onclick="Stop();Play(sound1);z=current_song(sound1)">1.Six Degrees of
+            Separation</button>
+        <button class="button button3" onclick="Stop();Play(sound2);z=current_song(sound2)">2.Only if you could see me
+            now</button>
+        <button class="button button3" onclick="Stop();Play(sound3);z=current_song(sound3)">3.Counting Stars</button>
+    </div>
+</body>
+
+
+</html>

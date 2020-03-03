@@ -1,0 +1,97 @@
+{
+  "requires": true,
+  "lockfileVersion": 1,
+  "dependencies": {
+    "backbone-events-standalone": {
+      "integrity": "sha1-MkN9nRHFzvBBA0pZxJRzuG8M4ZY=",
+      "resolved": "https://registry.npmjs.org/backbone-events-standalone/-/backbone-events-standalone-0.2.7.tgz",
+      "version": "0.2.7"
+    },
+    "bowser": "^2.7.0",
+    "colors": {
+      "integrity": "sha512-a+UqTh4kgZg/SlGvfbzDHpgRu7AAQOmmqRHJnxhRZICKFUT91brVhNNt58CMWU9PsBbv3PDCZUHbVxuDiH2mtA==",
+      "resolved": "https://registry.npmjs.org/colors/-/colors-1.4.0.tgz",
+      "version": "1.4.0"
+    },
+    "es6-promise": {
+      "integrity": "sha1-lu258v2wGZWCKyY92KratnSBgbw=",
+      "resolved": "https://registry.npmjs.org/es6-promise/-/es6-promise-2.3.0.tgz",
+      "version": "2.3.0"
+    },
+    "form-urlencoded": {
+      "integrity": "sha1-CouCcA3SRQof7a7OmZx7M1+ynWI=",
+      "resolved": "https://registry.npmjs.org/form-urlencoded/-/form-urlencoded-0.1.9.tgz",
+      "version": "0.1.9"
+    },
+    "howler": "^2.1.2",
+    "lerp": {
+      "integrity": "sha1-oYyJaPkXiW3hXM/MKNVaa3Med24=",
+      "resolved": "https://registry.npmjs.org/lerp/-/lerp-1.0.3.tgz",
+      "version": "1.0.3"
+    },
+    "mime": {
+      "integrity": "sha512-x0Vn8spI+wuJ1O6S7gnbaQg8Pxh4NNHb7KSINmEWKiPE4RKOplvijn+NkmYmmRgP68mc70j2EbeTFRsrswaQeg==",
+      "resolved": "https://registry.npmjs.org/mime/-/mime-1.6.0.tgz",
+      "version": "1.6.0"
+    },
+    "minimist": {
+      "integrity": "sha1-3j+YVD2/lggr5IrRoMfNqDYwHc8=",
+      "resolved": "https://registry.npmjs.org/minimist/-/minimist-0.0.10.tgz",
+      "version": "0.0.10"
+    },
+    "node-static": {
+      "integrity": "sha512-zfWC/gICcqb74D9ndyvxZWaI1jzcoHmf4UTHWQchBNuNMxdBLJMDiUgZ1tjGLEIe/BMhj2DxKD8HOuc2062pDQ==",
+      "requires": {
+        "colors": ">=0.6.0",
+        "mime": "^1.2.9",
+        "optimist": ">=0.3.4"
+      },
+      "resolved": "https://registry.npmjs.org/node-static/-/node-static-0.7.11.tgz",
+      "version": "0.7.11"
+    },
+    "optimist": {
+      "integrity": "sha1-2j6nRob6IaGaERwybpDrFaAZZoY=",
+      "requires": {
+        "minimist": "~0.0.1",
+        "wordwrap": "~0.0.2"
+      },
+      "resolved": "https://registry.npmjs.org/optimist/-/optimist-0.6.1.tgz",
+      "version": "0.6.1"
+    },
+    "performance-now": {
+      "integrity": "sha1-Ywn04OX6kT7BxpMHrjZLSzd8nns=",
+      "resolved": "https://registry.npmjs.org/performance-now/-/performance-now-2.1.0.tgz",
+      "version": "2.1.0"
+    },
+    "query-string": {
+      "integrity": "sha1-fbBmZCCAS6qSrp8miWKFWnYUPfs=",
+      "requires": {
+        "strict-uri-encode": "^1.0.0"
+      },
+      "resolved": "https://registry.npmjs.org/query-string/-/query-string-2.4.2.tgz",
+      "version": "2.4.2"
+    },
+    "raf": {
+      "integrity": "sha512-Sq4CW4QhwOHE8ucn6J34MqtZCeWFP2aQSmrlroYgqAV1PjStIhJXxYuTgUIfkEk7zTLjmIjLmU5q+fbD1NnOJA==",
+      "requires": {
+        "performance-now": "^2.1.0"
+      },
+      "resolved": "https://registry.npmjs.org/raf/-/raf-3.4.1.tgz",
+      "version": "3.4.1"
+    },
+    "siriwave": "^1.2.4",
+    "soundcloud": "^3.3.2",
+    "spotify": "^0.3.0",
+    "spotify-web-api-js": "^1.2.0",
+    "strict-uri-encode": {
+      "integrity": "sha1-J5siXfHVgrH1TmWt3UNS4Y+qBxM=",
+      "resolved": "https://registry.npmjs.org/strict-uri-encode/-/strict-uri-encode-1.1.0.tgz",
+      "version": "1.1.0"
+    },
+    "wordwrap": {
+      "integrity": "sha1-o9XabNXAvAAI03I0u68b7WMFkQc=",
+      "resolved": "https://registry.npmjs.org/wordwrap/-/wordwrap-0.0.3.tgz",
+      "version": "0.0.3"
+    }
+  }
+}
