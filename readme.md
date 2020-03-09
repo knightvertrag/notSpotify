@@ -8,12 +8,12 @@
 
 1. Open the folder in a terminal and run:
 
-``
+```
 npm install
 
-``
+```
 This will download all the dependencies.
 
-1. Next open the index.html file in a browser window. You can now play and control thr playback using the buttons provided.
+Next open the index.html file in a browser window. You can now play and control thr playback using the buttons provided.
 
 
