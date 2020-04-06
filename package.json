@@ -34,11 +34,7 @@
       "resolved": "https://registry.npmjs.org/mime/-/mime-1.6.0.tgz",
       "version": "1.6.0"
     },
-    "minimist": {
-      "integrity": "sha1-3j+YVD2/lggr5IrRoMfNqDYwHc8=",
-      "resolved": "https://registry.npmjs.org/minimist/-/minimist-0.0.10.tgz",
-      "version": "0.0.10"
-    },
+    "minimist": "^1.2.5",
     "node-static": {
       "integrity": "sha512-zfWC/gICcqb74D9ndyvxZWaI1jzcoHmf4UTHWQchBNuNMxdBLJMDiUgZ1tjGLEIe/BMhj2DxKD8HOuc2062pDQ==",
       "requires": {
