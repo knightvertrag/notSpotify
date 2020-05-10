@@ -14,6 +14,6 @@ npm install
 ```
 This will download all the dependencies.
 
-Next open the index.html file in a browser window. You can now play and control thr playback using the buttons provided.
+Next open the index.html file in a browser window. You can now play and control the playback using the buttons provided.
 
 
