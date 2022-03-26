@@ -34,7 +34,7 @@
       "resolved": "https://registry.npmjs.org/mime/-/mime-1.6.0.tgz",
       "version": "1.6.0"
     },
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.6",
     "node-static": {
       "integrity": "sha512-zfWC/gICcqb74D9ndyvxZWaI1jzcoHmf4UTHWQchBNuNMxdBLJMDiUgZ1tjGLEIe/BMhj2DxKD8HOuc2062pDQ==",
       "requires": {
